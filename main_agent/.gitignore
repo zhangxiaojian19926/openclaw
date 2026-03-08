@@ -1,8 +1,0 @@
-# 主 Agent 敏感配置
-config/mcporter.json
-config/xiaohongshu_cookies.json
-config/*.secret.json
-
-# 运行时临时文件
-temp/
-*.tmp
